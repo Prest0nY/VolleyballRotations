@@ -11,7 +11,7 @@ import Rotation6 from './Rotation6.js'
 
 function App() {
   return (
-    <div>
+    <div  className = "pb-16">
         <h1>5 - 1 Volleyball Rotations</h1>
 
         <p>The 5 - 1 volleyball rotation is a style of play that focuses primarily on being offensively powerful. However, defense is still strong with three blockers in the front row. This style ensures that the setter has 5 options to set to when attacking. </p>
