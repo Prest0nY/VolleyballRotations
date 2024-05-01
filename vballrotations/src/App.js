@@ -12,15 +12,13 @@ import Rotation6 from './Rotation6.js'
 function App() {
   return (
     <div>
-        <Navbar />
-        <h1 style={{paddingBottom: '150px'}}>5 - 1 Volleyball Rotations</h1>
-        <BasePositions />
-        <Rotation1 />
-        <Rotation2 />
-        <Rotation3 />
-        <Rotation4 />
-        <Rotation5 />
-        <Rotation6 />
+        <h1>5 - 1 Volleyball Rotations</h1>
+
+        <p>The 5 - 1 volleyball rotation is a style of play that focuses primarily on being offensively powerful. However, defense is still strong with three blockers in the front row. This style ensures that the setter has 5 options to set to when attacking. </p>
+
+        <p>In many 5-1 rotations, the right side, or opposite, hitter will receive serves. However, in this specific rotation, the right side hitter does not receive, and only outside hitters, and the libero receive serves.</p>
+
+        <p>In this rotation, you will see many players that may seem "out of place" or "rotation" but they are not, they are just making sure the setter and right side hitter do not receive the serve, or trying to get into base positions.</p>
     </div>
   );
 }

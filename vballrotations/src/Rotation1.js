@@ -3,23 +3,24 @@ import "./App.css"
 
 function Rotation1 () {
     return(
-        <div style={{paddingBottom: '150px'}}>
+        <div>
 
+            <h1>Rotation 1</h1>
+
+
+            <h2>R1 Serve</h2>
             <div>
-                <h2>Rotation 1</h2>
+                <p></p>
+                <img />
             </div>
 
-            <div className="evenspace">
-                <h3>Serve</h3>
-                <h3>Serve Receive</h3>
+
+            <h2>R1 Serve Receive</h2>
+            <div>
+                <p></p>
+                <img />
             </div>
-
-            <div className="evenspace">
-
-                <div className="halfcourt"></div>
-                <div className="halfcourt"></div>
-
-            </div>
+            
 
 
         </div>
