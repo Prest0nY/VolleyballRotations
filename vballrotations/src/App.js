@@ -18,7 +18,9 @@ function App() {
 
         <p>In many 5-1 rotations, the right side, or opposite, hitter will receive serves. However, in this specific rotation, the right side hitter does not receive, and only outside hitters, and the libero receive serves.</p>
 
-        <p>In this rotation, you will see many players that may seem "out of place" or "rotation" but they are not, they are just making sure the setter and right side hitter do not receive the serve, or trying to get into base positions.</p>
+        <p>In this rotation, you will see many players that may seem "out of place" or "rotation" but they are not, they are just making sure the setter and right side hitter do not receive the serve. They are also trying to get the setter closest to the setting position which is in the front row, between the middle blocker and right side hitter.</p>
+
+        <p>Also, base positions will usually only apply when the setter's rotation is in the back row. When the setter is in the front row, they will take the right side hitter's spot, and the right side will hit from behind the 10 foot line. Basically, the setter and right side are opposite positions.</p>
     </div>
   );
 }

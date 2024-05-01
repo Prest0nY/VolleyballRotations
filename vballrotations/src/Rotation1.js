@@ -1,5 +1,6 @@
 import React from "react"
 import "./App.css"
+import R1Serve from "./images/R1Serve.png"
 
 function Rotation1 () {
     return(
@@ -11,7 +12,7 @@ function Rotation1 () {
             <h2>R1 Serve</h2>
             <div>
                 <p></p>
-                <img />
+                <img src="R1Serve"/>
             </div>
 
 
