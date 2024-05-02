@@ -9,13 +9,13 @@ function Rotation6 () {
             <h1>Rotation 6</h1>
 
             <h2>Rotation 6 Serve</h2>
-            <div>
+            <div class="flex justify-around">
                 <p></p>
                 <img class="w-1/2" src={R6Serve}/>
             </div>
 
             <h2>Rotation 6 Serve Receive</h2>
-            <div>
+            <div class="flex justify-around">
                 <p></p>
                 <img class="w-1/2" src={R6SR}/>
             </div>

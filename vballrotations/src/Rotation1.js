@@ -12,15 +12,36 @@ function Rotation1 () {
 
             <h2>R1 Serve</h2>
             <div class="flex justify-around">
-                <p>With the setter serving first, the outside hitter in the back row will switch with the libero to get into base positions. And the right side and outside hitters in the front row will switch to also get into base positions. </p>
+
+
+                <div>
+                    <p>In the first rotation, the setter serves first. </p>
+                    <ul>
+                        <li>The libero and outside hitter 2 group up and switch when the setter serves to get into base positions.</li>
+                        <li>Then the middle blocker, right side, and outside hitter 1, group up. Once the setter serves, the outside hitter and right side hitter will switch to get into base positions.</li>
+                    </ul>
+                </div>
+
+
                 <img class="w-1/2" src={R1Serve}/>
+
             </div>
 
 
             <h2>R1 Serve Receive</h2>
             <div class="flex justify-around">
-                <p>Now that this rotation is receiving, the outside hitter in the front row, will move back to cover the setter so they don't have to receive. However, the setter cannot go in front of the outside hitter.</p>
+
+                <div>
+                    <p>Now this rotation will receive a serve from the enemy team.</p>
+                    <ul>
+                        <li>The right side hitter will back up to the 10 foot line to cover the short serves.</li>
+                        <li>The outside hitter 1 will back up to cover the setter, making sure they don't receive. However, the outside hitter cannot go behind the setter until the serve is hit.</li>
+                        <li>Once the serve goes over, the setter will run up to the setting position and the other players will receive.</li>
+                    </ul>
+                </div>
+
                 <img class="w-1/2" src={R1SR}/>
+
             </div>
             
 
