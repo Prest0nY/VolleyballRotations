@@ -8,10 +8,13 @@ function Rotation3 () {
         <div className="pb-64">
             <h1>Rotation 3</h1>
 
+
+
+
             <h2>Rotation 3 Serve</h2>
             <div>
                 <p></p>
-                <img src={R3Serve}/>
+                <img class="w-1/2" src={R3Serve}/>
             </div>
 
 
@@ -19,7 +22,7 @@ function Rotation3 () {
             <h2>Rotation 3 Serve Receive</h2>
             <div>
                 <p></p>
-                <img src={R3SR}/>
+                <img class="w-1/2" src={R3SR}/>
             </div>
 
 

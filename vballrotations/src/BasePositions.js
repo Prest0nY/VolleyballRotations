@@ -8,10 +8,12 @@ function BasePositions () {
 
             <h1>Base Positions</h1>
 
-            <div>
-                <img src={BPositions}/>
-                <p></p>
+            <div class="flex justify-around">
+                <p>The base positions are the positions that all the players will try to get to, when the setter is in the back row. These positions ensure that the setter is closest to the setting position.</p>
+                <img class="w-1/2" src={BPositions}/>
             </div>
+
+
         </div>
     )
 }

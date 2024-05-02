@@ -1,6 +1,7 @@
 import React from "react"
 import "./App.css"
 import R4Serve from "./images/R4Serve.png"
+import R4SR from "./images/R4SR.png"
 
 function Rotation4 () {
     return(
@@ -12,7 +13,7 @@ function Rotation4 () {
             <h2>Rotation 4 Serve</h2>
             <div>
                 <p></p>
-                <img src={R4Serve}/>
+                <img class="w-1/2" src={R4Serve}/>
             </div>
 
 
@@ -20,7 +21,7 @@ function Rotation4 () {
             <h2>Rotation 4 Serve Receive</h2>
             <div>
                 <p></p>
-                <img />
+                <img class="w-1/2" src={R4SR}/>
             </div>
 
 
