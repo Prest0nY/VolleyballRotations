@@ -32,9 +32,12 @@ function Rotation5 () {
             <div class="flex justify-around">
 
                 <div>
-                    <p></p>
+                    <p>Now rotation 5 will serve receive.</p>
                     <ul>
-                        <li></li>
+                        <li>The setter is now closest to the setting position, so they will stay and go up to the net.</li>
+                        <li>Outside hitter 1 will move back to receive while staying in front of the libero.</li>
+                        <li>The right side hitter will back up in between the libero and outside hitter 2, so the right side doesn't have to receive.</li>
+                        <li>Middle blocker 2 will cover short serves.</li>
                     </ul>
                 </div>
 
