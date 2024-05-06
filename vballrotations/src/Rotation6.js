@@ -5,13 +5,13 @@ import R6SR from "./images/R6SR.png"
 
 function Rotation6 () {
     return(
-        <div className="pb-64">
-            <h1>Rotation 6</h1>
+        <div className="pb-16">
+            <h1 className="text-4xl text-center pt-16">Rotation 6</h1>
 
-            <h2>Rotation 6 Serve</h2>
+            <h2 className="text-center p-8 text-2xl">Rotation 6 Serve</h2>
             <div class="flex justify-around">
 
-                <div>
+                <div className="pl-12">
                     <p>The rotation shifts one more time in the sixth and last rotation.</p>
                     <ul>
                         <li>Middle blocker 1 subs in for the libero.</li>
@@ -29,10 +29,10 @@ function Rotation6 () {
 
 
 
-            <h2>Rotation 6 Serve Receive</h2>
+            <h2 className="text-center p-8 text-2xl">Rotation 6 Serve Receive</h2>
             <div class="flex justify-around">
 
-                <div>
+                <div className="pl-12">
                     <p>Now the final rotation will serve receive.</p>
                     <ul>
                         <li>The libero subs in for middle blocker 2.</li>

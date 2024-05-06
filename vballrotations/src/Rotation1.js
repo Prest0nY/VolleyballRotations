@@ -1,20 +1,22 @@
 import React from "react"
+import ReactDOM from "react-dom"
 import "./App.css"
+import "./index.css"
 import R1Serve from "./images/R1Serve.png"
 import R1SR from "./images/R1SR.png"
 
 function Rotation1 () {
     return(
-        <div className="pb-64">
+        <div className="pb-32">
 
-            <h1>Rotation 1</h1>
-
-
-            <h2>R1 Serve</h2>
-            <div class="flex justify-around">
+            <h1 className="text-4xl text-center pt-16">Rotation 1</h1>
 
 
-                <div>
+            <h2 className="text-center p-8 text-2xl">R1 Serve</h2>
+            <div className="flex justify-around">
+
+
+                <div className="pl-12">
                     <p>In the first rotation, the setter serves first. </p>
                     <ul>
                         <li>The libero and outside hitter 2 group up and switch when the setter serves to get into base positions.</li>
@@ -23,15 +25,15 @@ function Rotation1 () {
                 </div>
 
 
-                <img class="w-1/2" src={R1Serve}/>
+                <img className="w-1/2" src={R1Serve}/>
 
             </div>
 
 
-            <h2>R1 Serve Receive</h2>
-            <div class="flex justify-around">
+            <h2 className="text-center p-8 text-2xl">R1 Serve Receive</h2>
+            <div className="flex justify-around">
 
-                <div>
+                <div className="pl-12">
                     <p>Now this rotation will receive a serve from the enemy team.</p>
                     <ul>
                         <li>The right side hitter will back up to the 10 foot line to cover the short serves.</li>
@@ -40,7 +42,7 @@ function Rotation1 () {
                     </ul>
                 </div>
 
-                <img class="w-1/2" src={R1SR}/>
+                <img className="w-1/2" src={R1SR}/>
 
             </div>
             

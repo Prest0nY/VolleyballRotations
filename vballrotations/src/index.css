@@ -13,6 +13,11 @@ code {
 }
 
 
+ul {
+  list-style: inside;
+}
+
+
 
 
 @tailwind base;

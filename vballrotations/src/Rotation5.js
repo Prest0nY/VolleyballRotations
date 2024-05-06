@@ -5,14 +5,14 @@ import R5SR from "./images/R5SR.png"
 
 function Rotation5 () {
     return(
-        <div className="pb-64">
-            <h1>Rotation 5</h1>
+        <div className="pb-32">
+            <h1 className="text-4xl text-center pt-16">Rotation 5</h1>
 
 
-            <h2>Rotation 5 Serve</h2>
+            <h2 className="text-center p-8 text-2xl">Rotation 5 Serve</h2>
             <div class="flex justify-around">
 
-                <div>
+                <div className="pl-12">
                     <p>The rotation shifts over another time so that outside hitter 2 is serving.</p>
                     <ul>
                         <li>Players in the front row will group up, and the setter will go to front right, and middle blocker 2 will go to the middle front.</li>
@@ -28,10 +28,10 @@ function Rotation5 () {
             </div>
 
 
-            <h2>Rotation 5 Serve Receive</h2>
+            <h2 className="text-center p-8 text-2xl">Rotation 5 Serve Receive</h2>
             <div class="flex justify-around">
 
-                <div>
+                <div className="pl-12">
                     <p>Now rotation 5 will serve receive.</p>
                     <ul>
                         <li>The setter is now closest to the setting position, so they will stay and go up to the net.</li>
