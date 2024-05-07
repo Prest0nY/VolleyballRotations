@@ -6,14 +6,14 @@ import R4SR from "./images/R4SR.png"
 function Rotation4 () {
     return(
         <div className="pb-32">
-            <h1 className="text-4xl text-center pt-16">Rotation 4</h1>
+            <h1 className="text-4xl text-center pt-16 font-bold">Rotation 4</h1>
 
 
 
-            <h2 className="text-center p-8 text-2xl">Rotation 4 Serve</h2>
+            <h2 className="text-center p-8 text-2xl font-semibold">Rotation 4 Serve</h2>
             <div class="flex justify-around">
 
-                <div className="pl-12">
+                <div className="pl-12 pt-48">
                     <p>The right side will now serve.</p>
                     <ul>
                         <li>In the front row, the setter, middle blocker 2 and outside hitter 2 will group up. Outside hitter 2 and the setter will switch so the setter takes the front right position.</li>
@@ -30,10 +30,10 @@ function Rotation4 () {
 
 
 
-            <h2 className="text-center p-8 text-2xl">Rotation 4 Serve Receive</h2>
+            <h2 className="text-center p-8 text-2xl font-semibold">Rotation 4 Serve Receive</h2>
             <div class="flex justify-around">
 
-                <div className="pl-12">
+                <div className="pl-12 pt-48">
                     <p>Now rotation 4 will serve receive.</p>
                     <ul>
                         <li>The setter will push to the top left corner with middle blocker 2 pushed up behind them.</li>

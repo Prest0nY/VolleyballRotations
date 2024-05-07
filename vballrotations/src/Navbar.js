@@ -3,7 +3,7 @@ import "./App.css"
 
 function Navbar () {
     return(
-        <div className="evenspace">
+        <div className="flex justify-around pt-8 text-2xl font-medium">
             <h3>Base Positions</h3>
             <h3>Rotation 1</h3>
             <h3>Rotation 2</h3>

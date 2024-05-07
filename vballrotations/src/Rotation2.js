@@ -6,12 +6,12 @@ import R2SR from "./images/R2SR.png"
 function Rotation2 () {
     return(
         <div className="pb-32">
-            <h1 className="text-4xl text-center pt-16">Rotation 2</h1>
+            <h1 className="text-4xl text-center pt-16 font-bold">Rotation 2</h1>
 
-            <h2 className="text-center p-8 text-2xl">Rotation 2 Serve</h2>
+            <h2 className="text-center p-8 text-2xl font-semibold">Rotation 2 Serve</h2>
             <div class="flex justify-around">
 
-                <div className="pl-12">
+                <div className="pl-12 pt-48">
                     <p>Now the rotation shifts one time, and one of the outside hitters is serving.</p>
                     <ul>
                         <li>The libero and setter group up. And when the serve is hit, the setter goes to back right to get into base positions.</li>
@@ -25,10 +25,10 @@ function Rotation2 () {
             </div>
 
 
-            <h2 className="text-center p-8 text-2xl">Rotation 2 Serve Receive</h2>
+            <h2 className="text-center p-8 text-2xl font-semibold">Rotation 2 Serve Receive</h2>
             <div class="flex justify-around">
 
-                <div className="pl-12">
+                <div className="pl-12 pt-48">
                     <p>Now it is rotation 2 serve receive.</p>
                     <ul>
                         <li>The outside hitter 2 will move back to receive. However they cannot go behind the libero or they will be "out of rotation".</li>

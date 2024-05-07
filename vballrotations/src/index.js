@@ -24,7 +24,7 @@ root.render(
     <Rotation4 />
     <Rotation5 />
     <Rotation6 />
-    <p className="text-center pt-16">Note: I created this website to help me and any others remember these rotations as I know they are confusing and take some time and practice to learn.</p>
+    <p className="text-center py-16">Note: I created this website to help me and any others remember these rotations as I know they are confusing and take some time and practice to learn.</p>
   </React.StrictMode>
 );
 
