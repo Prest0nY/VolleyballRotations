@@ -12,6 +12,8 @@ import Rotation4 from './Rotation4.js'
 import Rotation5 from './Rotation5.js'
 import Rotation6 from './Rotation6.js'
 
+import { Link, animateScroll as scroll } from "react-scroll"
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
@@ -24,6 +26,19 @@ root.render(
     <Rotation4 />
     <Rotation5 />
     <Rotation6 />
+
+    <div className='text-center text-2xl border-solid border-4 w-52 m-auto border-black rounded-lg'>
+        <Link
+        activeClass="active"
+        to="top"
+        spy={true}
+        smooth={true}
+        offset={-70}
+        duration={500}>
+          Back to Top
+        </Link>
+
+    </div>
     <p className="text-center py-16">Note: I created this website to help me and any others remember these rotations as I know they are confusing and take some time and practice to learn.</p>
   </React.StrictMode>
 );

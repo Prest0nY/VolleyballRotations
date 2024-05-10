@@ -7,7 +7,7 @@ import R1SR from "./images/R1SR.png"
 
 function Rotation1 () {
     return(
-        <div className="pb-32">
+        <div className="pb-32" id="rotation1">
 
             <h1 className="text-4xl text-center pt-16 font-bold">Rotation 1</h1>
 
@@ -18,7 +18,7 @@ function Rotation1 () {
 
                 <div className="pl-12 pt-48">
                     <p>In the first rotation, the setter serves first. </p>
-                    <ul>
+                    <ul className="leading-8">
                         <li>The libero and outside hitter 2 group up and switch when the setter serves to get into base positions.</li>
                         <li>Then the middle blocker, right side, and outside hitter 1, group up. Once the setter serves, the outside hitter and right side hitter will switch to get into base positions.</li>
                     </ul>
@@ -35,7 +35,7 @@ function Rotation1 () {
 
                 <div className="pl-12 pt-48">
                     <p>Now this rotation will receive a serve from the enemy team.</p>
-                    <ul>
+                    <ul className="leading-8">
                         <li>The right side hitter will back up to the 10 foot line to cover the short serves.</li>
                         <li>The outside hitter 1 will back up to cover the setter, making sure they don't receive. However, the outside hitter cannot go behind the setter until the serve is hit.</li>
                         <li>Once the serve goes over, the setter will run up to the setting position and the other players will receive.</li>

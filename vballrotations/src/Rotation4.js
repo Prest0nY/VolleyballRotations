@@ -5,7 +5,7 @@ import R4SR from "./images/R4SR.png"
 
 function Rotation4 () {
     return(
-        <div className="pb-32">
+        <div className="pb-32" id="rotation4">
             <h1 className="text-4xl text-center pt-16 font-bold">Rotation 4</h1>
 
 
@@ -15,7 +15,7 @@ function Rotation4 () {
 
                 <div className="pl-12 pt-48">
                     <p>The right side will now serve.</p>
-                    <ul>
+                    <ul className="leading-8">
                         <li>In the front row, the setter, middle blocker 2 and outside hitter 2 will group up. Outside hitter 2 and the setter will switch so the setter takes the front right position.</li>
                         <li>In the back row, the libero and outside hitter 1 will group up. Once the serve is hit, the libero will go back right and outside hitter 1 will go middle back.</li>
                         <li>The right side hitter will go back right after serving.</li>
@@ -35,7 +35,7 @@ function Rotation4 () {
 
                 <div className="pl-12 pt-48">
                     <p>Now rotation 4 will serve receive.</p>
-                    <ul>
+                    <ul className="leading-8">
                         <li>The setter will push to the top left corner with middle blocker 2 pushed up behind them.</li>
                         <li>Outside hitter 2 will back up to back left to receive. They have to stay to the right of middle blocker 2. They also have to stay in front of outside hitter 1 and the libero.</li>
                         <li>The right side hitter will back up into the corner with the libero covering them so they don't have to receive.</li>

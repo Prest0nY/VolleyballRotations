@@ -5,7 +5,7 @@ import R3SR from "./images/R3SR.png"
 
 function Rotation3 () {
     return(
-        <div className="pb-32">
+        <div className="pb-32" id="rotation3">
             <h1 className="text-4xl text-center pt-16 font-bold">Rotation 3</h1>
 
 
@@ -16,7 +16,7 @@ function Rotation3 () {
 
                 <div className="pl-12 pt-48">
                     <p>The libero can't play front row, so the other middle blocker takes their place in the front row. They also can't serve so the first middle blocker serves.</p>
-                    <ul>
+                    <ul className="leading-8">
                         <li>The front row will group up to get into base positions.</li>
                         <li>The setter and back outside hitter group up to get into base positions.</li>
                         <li>Middle blocker 1 will take the libero's place and play back left.</li>
@@ -36,7 +36,7 @@ function Rotation3 () {
 
                 <div className="pl-12 pt-48">
                     <p>Rotation 3 will now serve receive. The libero is back in rotation to receive, they replace middle blocker 1.</p>
-                    <ul>
+                    <ul className="leading-8">
                         <li>The setter moves up behind middle blocker 2.</li>
                         <li>Outside hitter 2 will move to back right to receive. But they have to stay in front of outside hitter 1. They also have to stay to the right of middle blocker 2.</li>
                     </ul>
