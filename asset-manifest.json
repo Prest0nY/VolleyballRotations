@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/volleyballrotations/static/css/main.26c2e803.css",
-    "main.js": "/volleyballrotations/static/js/main.735f69d5.js",
+    "main.css": "/volleyballrotations/static/css/main.df43ac93.css",
+    "main.js": "/volleyballrotations/static/js/main.62e5e3a7.js",
     "static/js/787.dc1ae300.chunk.js": "/volleyballrotations/static/js/787.dc1ae300.chunk.js",
     "static/media/R2Serve.png": "/volleyballrotations/static/media/R2Serve.1f5ae889e85455c86756.png",
     "static/media/R1Serve.png": "/volleyballrotations/static/media/R1Serve.6017835b1ddc1bafa1ae.png",
@@ -18,12 +18,12 @@
     "static/media/R3Serve.png": "/volleyballrotations/static/media/R3Serve.cf99878bce7fb34951af.png",
     "static/media/logo.svg": "/volleyballrotations/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/volleyballrotations/index.html",
-    "main.26c2e803.css.map": "/volleyballrotations/static/css/main.26c2e803.css.map",
-    "main.735f69d5.js.map": "/volleyballrotations/static/js/main.735f69d5.js.map",
+    "main.df43ac93.css.map": "/volleyballrotations/static/css/main.df43ac93.css.map",
+    "main.62e5e3a7.js.map": "/volleyballrotations/static/js/main.62e5e3a7.js.map",
     "787.dc1ae300.chunk.js.map": "/volleyballrotations/static/js/787.dc1ae300.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.26c2e803.css",
-    "static/js/main.735f69d5.js"
+    "static/css/main.df43ac93.css",
+    "static/js/main.62e5e3a7.js"
   ]
 }
