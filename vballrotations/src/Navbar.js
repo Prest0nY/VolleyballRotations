@@ -5,7 +5,7 @@ import { Link, animateScroll as scroll} from "react-scroll"
 function Navbar () {
     return(
         
-        <nav className="fixed top-0 inline-block mr-20px">
+        <nav className="">
         {/* <nav> */}
             <div className=" flex justify-around pt-8 text-2xl font-medium">
                 <div>
