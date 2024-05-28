@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/volleyballrotations/static/css/main.df43ac93.css",
-    "main.js": "/volleyballrotations/static/js/main.62e5e3a7.js",
-    "static/js/787.dc1ae300.chunk.js": "/volleyballrotations/static/js/787.dc1ae300.chunk.js",
-    "static/media/R2Serve.png": "/volleyballrotations/static/media/R2Serve.1f5ae889e85455c86756.png",
-    "static/media/R1Serve.png": "/volleyballrotations/static/media/R1Serve.6017835b1ddc1bafa1ae.png",
-    "static/media/BasePositions.png": "/volleyballrotations/static/media/BasePositions.80f6fb47d379095c6a8c.png",
-    "static/media/R6Serve.png": "/volleyballrotations/static/media/R6Serve.0dc0bd4fef2e8a165d32.png",
-    "static/media/R2SR.png": "/volleyballrotations/static/media/R2SR.ccdfbfd76f3efd83024b.png",
-    "static/media/R3SR.png": "/volleyballrotations/static/media/R3SR.7db465815d77256940c4.png",
-    "static/media/R1SR.png": "/volleyballrotations/static/media/R1SR.b7a7bdd93ff5e741076d.png",
-    "static/media/R5SR.png": "/volleyballrotations/static/media/R5SR.fce618d77f5cf87f16c5.png",
-    "static/media/R5Serve.png": "/volleyballrotations/static/media/R5Serve.5ec0f01dcd1d259392ff.png",
-    "static/media/R4SR.png": "/volleyballrotations/static/media/R4SR.80e5799375e708381542.png",
-    "static/media/R4Serve.png": "/volleyballrotations/static/media/R4Serve.2ae7472bb52cbf51eb33.png",
-    "static/media/R6SR.png": "/volleyballrotations/static/media/R6SR.22d089abfc7901776063.png",
-    "static/media/R3Serve.png": "/volleyballrotations/static/media/R3Serve.cf99878bce7fb34951af.png",
-    "static/media/logo.svg": "/volleyballrotations/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/volleyballrotations/index.html",
-    "main.df43ac93.css.map": "/volleyballrotations/static/css/main.df43ac93.css.map",
-    "main.62e5e3a7.js.map": "/volleyballrotations/static/js/main.62e5e3a7.js.map",
-    "787.dc1ae300.chunk.js.map": "/volleyballrotations/static/js/787.dc1ae300.chunk.js.map"
+    "main.css": "/VolleyballRotations/static/css/main.df43ac93.css",
+    "main.js": "/VolleyballRotations/static/js/main.62060cc0.js",
+    "static/js/787.dc1ae300.chunk.js": "/VolleyballRotations/static/js/787.dc1ae300.chunk.js",
+    "static/media/R2Serve.png": "/VolleyballRotations/static/media/R2Serve.1f5ae889e85455c86756.png",
+    "static/media/R1Serve.png": "/VolleyballRotations/static/media/R1Serve.6017835b1ddc1bafa1ae.png",
+    "static/media/BasePositions.png": "/VolleyballRotations/static/media/BasePositions.80f6fb47d379095c6a8c.png",
+    "static/media/R6Serve.png": "/VolleyballRotations/static/media/R6Serve.0dc0bd4fef2e8a165d32.png",
+    "static/media/R2SR.png": "/VolleyballRotations/static/media/R2SR.ccdfbfd76f3efd83024b.png",
+    "static/media/R3SR.png": "/VolleyballRotations/static/media/R3SR.7db465815d77256940c4.png",
+    "static/media/R1SR.png": "/VolleyballRotations/static/media/R1SR.b7a7bdd93ff5e741076d.png",
+    "static/media/R5SR.png": "/VolleyballRotations/static/media/R5SR.fce618d77f5cf87f16c5.png",
+    "static/media/R5Serve.png": "/VolleyballRotations/static/media/R5Serve.5ec0f01dcd1d259392ff.png",
+    "static/media/R4SR.png": "/VolleyballRotations/static/media/R4SR.80e5799375e708381542.png",
+    "static/media/R4Serve.png": "/VolleyballRotations/static/media/R4Serve.2ae7472bb52cbf51eb33.png",
+    "static/media/R6SR.png": "/VolleyballRotations/static/media/R6SR.22d089abfc7901776063.png",
+    "static/media/R3Serve.png": "/VolleyballRotations/static/media/R3Serve.cf99878bce7fb34951af.png",
+    "static/media/logo.svg": "/VolleyballRotations/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/VolleyballRotations/index.html",
+    "main.df43ac93.css.map": "/VolleyballRotations/static/css/main.df43ac93.css.map",
+    "main.62060cc0.js.map": "/VolleyballRotations/static/js/main.62060cc0.js.map",
+    "787.dc1ae300.chunk.js.map": "/VolleyballRotations/static/js/787.dc1ae300.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.df43ac93.css",
-    "static/js/main.62e5e3a7.js"
+    "static/js/main.62060cc0.js"
   ]
 }
